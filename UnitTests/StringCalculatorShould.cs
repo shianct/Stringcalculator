@@ -42,12 +42,6 @@ namespace UnitTests
             result.Should().Be(1015);
         }
 
-        [Test]
-        public void test()
-        {
-
-        }
-
         public int AddNumbers(string numbers)
         {
             
